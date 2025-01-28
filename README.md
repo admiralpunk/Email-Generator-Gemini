@@ -1,7 +1,7 @@
 # Next.js Email Generator App
 
 This is a professional email generator app built with Next.js, Tailwind CSS, and shadcn/ui.
-
+Check it out : https://email-generator-gemini-1.vercel.app/
 ## Features
 - Generate professional emails using AI
 - Customizable email templates
